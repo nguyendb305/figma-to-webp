@@ -1,2 +1,2 @@
 # figma-to-webp
-A Figma plugin to export images to WebP format, ready for SEO.
+A Figma plugin to export designs to WebP format, ready for SEO.
