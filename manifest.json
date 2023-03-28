@@ -1,0 +1,23 @@
+{
+  "name": "Figma To WebP",
+  "id": "com.example.figma-to-webp",
+  "api": "1.0.0",
+  "main": "figma-to-webp.js",
+  "ui": "figma-to-webp.html",
+  "config": {
+    "webp_quality": {
+      "type": "range",
+      "min": 0,
+      "max": 100,
+      "step": 10,
+      "default": 80,
+      "display_name": "WebP quality"
+    }
+  },
+  "description": "Export Figma designs to WebP format",
+  "author": {
+    "name": "Nguyen Dang",
+    "email": "nguyendang.digital@gmail.com"
+  },
+  "license": "MIT"
+}
